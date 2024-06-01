@@ -29,8 +29,7 @@
 ## Currently Learning:
 
 ![Kali](https://img.shields.io/badge/kali-04080f?style=for-the-badge&logo=kalilinux&logoColor=00BFFF)
-![MySql](https://img.shields.io/badge/MySQL-04080f?style=for-the-badge&logo=mysql&logoColor=00BFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-04080f?style=for-the-badge&logo=JavaScript&logoColor=00BFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-04080f?style=for-the-badge&logo=postgresql&logoColor=00BFFF)
 ![Python](https://img.shields.io/badge/Python-04080f?style=for-the-badge&logo=python&logoColor=00BFFF)
    </div>
   
