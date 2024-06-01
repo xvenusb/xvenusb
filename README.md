@@ -20,7 +20,6 @@
 
 ![Java](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=openjdk&logoColor=00BFFF)
 ![image](https://img.shields.io/badge/Linux-04080f?style=for-the-badge&logo=linux&logoColor=00BFFF)
-![Windows](https://img.shields.io/badge/Windows-04080f?style=for-the-badge&logo=windows&logoColor=00BFFF)
 ![image](https://img.shields.io/badge/HTML5-04080f?style=for-the-badge&logo=html5&logoColor=00BFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-04080f?style=for-the-badge&logo=css3&logoColor=00BFFF)
 ![image](https://img.shields.io/badge/GIT-04080f?style=for-the-badge&logo=git&logoColor=00BFFF)
@@ -32,6 +31,7 @@
 ![Kali](https://img.shields.io/badge/kali-04080f?style=for-the-badge&logo=kalilinux&logoColor=00BFFF)
 ![MySql](https://img.shields.io/badge/MySQL-04080f?style=for-the-badge&logo=mysql&logoColor=00BFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-04080f?style=for-the-badge&logo=JavaScript&logoColor=00BFFF)
+![Python](https://img.shields.io/badge/Python-04080f?style=for-the-badge&logo=python&logoColor=00BFFF)
    </div>
   
   
