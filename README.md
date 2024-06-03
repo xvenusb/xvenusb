@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xvenusb&show_icons=true&count_private=true&hide_border=true&title_color=00BFFFc&icon_color=0000CD&text_color=00BFFF&bg_color=0d1117" alt="Clara github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celesteadoq&layout=compact&hide_border=true&title_color=d60f6ctext_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvenusb&layout=compact&hide_border=true&title_color=d60f6ctext_color=ff91a4&bg_color=0d1117" />
 </div>
 
 [![Venus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xvenusb&bg_color=000000&color=6495ED&line=ADD8E6&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
