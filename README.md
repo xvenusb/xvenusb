@@ -2,6 +2,7 @@
 
 ```
 #About me
+
 name = "Clara Mendes"
 current_learning = ["Kali", "PostgreSQL"]
 my_skills = ["Python", "Git", "Java", "Linux", "HTML 5", "CSS 3"]
