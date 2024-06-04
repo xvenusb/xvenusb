@@ -17,6 +17,7 @@ interests= ["reading", "cibersecurity", "data science", "gastronomy", "music"]
   
 ## Main Skills:
 
+![Python](https://img.shields.io/badge/Python-04080f?style=for-the-badge&logo=python&logoColor=D8BFD8)
 ![Java](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=openjdk&logoColor=D8BFD8)
 ![image](https://img.shields.io/badge/Linux-04080f?style=for-the-badge&logo=linux&logoColor=D8BFD8)
 ![image](https://img.shields.io/badge/HTML5-04080f?style=for-the-badge&logo=html5&logoColor=D8BFD8)
@@ -31,7 +32,6 @@ interests= ["reading", "cibersecurity", "data science", "gastronomy", "music"]
 
 ![Kali](https://img.shields.io/badge/kali-04080f?style=for-the-badge&logo=kalilinux&logoColor=D8BFD8)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-04080f?style=for-the-badge&logo=postgresql&logoColor=D8BFD8)
-![Python](https://img.shields.io/badge/Python-04080f?style=for-the-badge&logo=python&logoColor=D8BFD8)
    </div>
 
 [![Venus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xvenusb&bg_color=000000&color=E6E6FA&line=D8BFD8&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
