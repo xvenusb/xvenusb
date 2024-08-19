@@ -4,8 +4,8 @@
 #About me
 
 name = "Clara Mendes"
-current_learning = ["Kali", "PostgreSQL"]
-my_skills = ["Python", "Git", "Java", "Linux", "HTML 5", "CSS 3"]
+current_learning = ["Kali", "PostgreSQL, JavaScript"]
+my_skills = ["Python", "Git", "Java", "Linux", "HTML", "CSS"]
 interests= ["reading", "cibersecurity", "data science", "gastronomy", "music"]
 ```
 
