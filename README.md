@@ -1,12 +1,14 @@
 <img width=100% src= "https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header"/>
 
-```
-#About me
+```javascript
+const aboutMe = {
+  name: "Clara Mendes",
+  currentLearning: ["React", "MongoDB"],
+  mySkills: ["JavaScript","Python", "Node.js", "Java", "Kali", "HTML", "CSS"],
+  interests: ["reading","FullStack", "cybersecurity", "gastronomy", "music"]
+};
 
-name = "Clara Mendes"
-current_learning = ["Kali", "PostgreSQL, JavaScript"]
-my_skills = ["Python", "Git", "Java", "Linux", "HTML", "CSS"]
-interests= ["reading", "cibersecurity", "data science", "gastronomy", "music"]
+console.log(aboutMe);
 ```
 
 <div align="rigth">  
@@ -20,19 +22,17 @@ interests= ["reading", "cibersecurity", "data science", "gastronomy", "music"]
 
 ![Python](https://img.shields.io/badge/Python-04080f?style=for-the-badge&logo=python&logoColor=D8BFD8)
 ![Java](https://img.shields.io/badge/Java-04080f?style=for-the-badge&logo=openjdk&logoColor=D8BFD8)
-![image](https://img.shields.io/badge/Linux-04080f?style=for-the-badge&logo=linux&logoColor=D8BFD8)
 ![image](https://img.shields.io/badge/HTML5-04080f?style=for-the-badge&logo=html5&logoColor=D8BFD8)
 ![CSS3](https://img.shields.io/badge/CSS3-04080f?style=for-the-badge&logo=css3&logoColor=D8BFD8)
-![image](https://img.shields.io/badge/GIT-04080f?style=for-the-badge&logo=git&logoColor=D8BFD8)
-
+![Kali](https://img.shields.io/badge/kali-04080f?style=for-the-badge&logo=kalilinux&logoColor=D8BFD8)
    </div>
    
   <div  align="center">   
     
 ## Currently Learning:
+![MongoDB](https://img.shields.io/badge/mongodb-04080f?style=for-the-badge&logo=mongoDB&logoColor=D8BFD8)
+![React](https://img.shields.io/badge/react-04080f?style=for-the-badge&logo=react&logoColor=D8BFD8)
 
-![Kali](https://img.shields.io/badge/kali-04080f?style=for-the-badge&logo=kalilinux&logoColor=D8BFD8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-04080f?style=for-the-badge&logo=postgresql&logoColor=D8BFD8)
    </div>
 
 [![Venus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xvenusb&bg_color=000000&color=E6E6FA&line=D8BFD8&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
