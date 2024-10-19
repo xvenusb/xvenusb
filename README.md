@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
   name: "Clara Mendes",
-  currentLearning: ["React", "MongoDB"],
+  currentLearning: ["DevOps/DevSecOps Principles"],
   mySkills: ["JavaScript","Python", "Node.js", "Java", "Kali", "HTML", "CSS"],
   interests: ["reading","FullStack", "cybersecurity", "gastronomy", "music"]
 };
