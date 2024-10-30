@@ -5,7 +5,7 @@ const aboutMe = {
   name: "Clara Mendes",
   currentLearning: ["DevOps/DevSecOps Principles"],
   mySkills: ["JavaScript","Python", "Node.js", "Java", "Kali", "HTML", "CSS"],
-  interests: ["reading","FullStack", "cybersecurity", "gastronomy", "music"]
+  interests: ["reading","cloud", "cybersecurity", "gastronomy", "music"]
 };
 
 console.log(aboutMe);
