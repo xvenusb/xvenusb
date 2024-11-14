@@ -12,7 +12,7 @@ console.log(aboutMe);
 ```
 
 <div align="rigth">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvenusb&layout=compact&hide_border=true&title_color=D8BFD8text_color=D8BFD8&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrferra&layout=compact&hide_border=true&title_color=D8BFD8text_color=D8BFD8&bg_color=0d1117" />
   </div>
 
 
@@ -42,7 +42,7 @@ console.log(aboutMe);
     <img align="left" height="250" alt="coding-time" src="tumblr_e3f936ccd175d690c47878dc93f8cec4_7ba23f9f_640.gif">
 
 
-<img align="right" height="250">![7ef67316ebcf952c657928631f89935a](https://github.com/xvenusb/xvenusb/assets/130839261/a13b0a45-8f4f-452f-be1f-41d1bd409c06)
+<img align="right" height="250">![7ef67316ebcf952c657928631f89935a](https://github.com/marrferra/marrferra/assets/130839261/a13b0a45-8f4f-452f-be1f-41d1bd409c06)
 
 
 
