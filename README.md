@@ -35,14 +35,14 @@ console.log(aboutMe);
 
    </div>
 
-[![Venus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xvenusb&bg_color=000000&color=E6E6FA&line=D8BFD8&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Clara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marrferra&bg_color=000000&color=E6E6FA&line=D8BFD8&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="tumblr_e3f936ccd175d690c47878dc93f8cec4_7ba23f9f_640.gif">
 
 
-<img align="right" height="250">![7ef67316ebcf952c657928631f89935a](https://github.com/marrferra/marrferra/assets/130839261/a13b0a45-8f4f-452f-be1f-41d1bd409c06)
+<img align="right" height="250">![7ef67316ebcf952c657928631f89935a](https://github.com/xvenusb/xvenusb/assets/130839261/a13b0a45-8f4f-452f-be1f-41d1bd409c06)
 
 
 
