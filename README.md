@@ -12,7 +12,7 @@ console.log(aboutMe);
 ```
 
 <div align="rigth">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marrferra&layout=compact&hide_border=true&title_color=D8BFD8text_color=D8BFD8&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvenusbb&layout=compact&hide_border=true&title_color=D8BFD8text_color=D8BFD8&bg_color=0d1117" />
   </div>
 
 
@@ -35,14 +35,14 @@ console.log(aboutMe);
 
    </div>
 
-[![Clara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marrferra&bg_color=000000&color=E6E6FA&line=D8BFD8&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Clara's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xvenusbb&bg_color=000000&color=E6E6FA&line=D8BFD8&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="tumblr_e3f936ccd175d690c47878dc93f8cec4_7ba23f9f_640.gif">
 
 
-<img align="right" height="250">![7ef67316ebcf952c657928631f89935a](https://github.com/xvenusb/xvenusb/assets/130839261/a13b0a45-8f4f-452f-be1f-41d1bd409c06)
+<img align="right" height="250">![7ef67316ebcf952c657928631f89935a](https://github.com/xvenusbb/xvenusbb/assets/130839261/a13b0a45-8f4f-452f-be1f-41d1bd409c06)
 
 
 
